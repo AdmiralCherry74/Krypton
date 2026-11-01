@@ -1,0 +1,5 @@
+displayName = Krypton: A QOL Mod For Xenon Devs
+author = SeleneTheTeumessianFox
+version = 0.1
+modReferences = Xenon
+buildIgnore = .vs\*, Properties\*, *.tmp, *.csproj, *.user, obj\*, bin\*, lib\*, *.config, .git\*, .github\*, *.md, .editorconfig, .gitignore, .gitattributes

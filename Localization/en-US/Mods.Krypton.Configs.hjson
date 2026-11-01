@@ -1,0 +1,14 @@
+BasicGameplayConfigs: {
+	DisplayName: Basic Gameplay Configs
+	Headers.CharacterKits: Character Kits
+
+	DevKit: {
+		Label: Dev Kit
+		Tooltip: Gives new characters an Exotic Terrablade, an Exotic Dirt Pickaxe, An Exotic Pwnhammer, a Terraformer with all of the Solutions avalible and World Globes.
+	}
+
+	WorldGlobeKit: {
+		Label: World Globe Kit
+		Tooltip: Just gives new characters world globes. perfect for new playthroughs
+	}
+}
