@@ -24,6 +24,7 @@ namespace Krypton.Content.Tiles
             TileID.Sets.GeneralPlacementTiles[Type] = false;
             TileID.Sets.Stone[Type] = true;
             TileID.Sets.CanBeClearedDuringOreRunner[Type] = true;
+            TileID.Sets.HallowBiome[Type] += 2500;
             HitSound = SoundID.Tink;
             DustType = DustID.UndergroundHallowedEnemies;
         }

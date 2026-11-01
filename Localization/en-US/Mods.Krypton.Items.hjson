@@ -1,0 +1,24 @@
+CompactCrimstone: {
+	DisplayName: Compact Crimstone
+	Tooltip: Place this to create a Crimson Biome on command
+}
+
+CompactEbonstone: {
+	DisplayName: Compact Ebonstone
+	Tooltip: Place this to create a Corruption Biome on command
+}
+
+CompactPearlstone: {
+	DisplayName: Compact Pearlstone
+	Tooltip: Place this to create a Hallow Biome on command
+}
+
+CompactGutstone: {
+	DisplayName: Compact Gutstone
+	Tooltip: ""
+}
+
+CompactSnoozestone: {
+	DisplayName: Compact Snoozestone
+	Tooltip: ""
+}
